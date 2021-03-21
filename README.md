@@ -4,8 +4,7 @@ Web development
 - 🌱 I’m currently learning ...
 React.js
 - ❤️ Favourite languages ...
-Typescript
-SCSS
+Typescript + SCSS
 
 <!---
 StefanNede/StefanNede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
