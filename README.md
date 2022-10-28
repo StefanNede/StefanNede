@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StefanNede
 - 👀 I’m interested in ...
-Web + App development
+Web development + Competitive Programming
 - 🌱 I’m currently learning ...
-back-end
+game dev
 - ❤️ Favourite language ...
 Typescript
