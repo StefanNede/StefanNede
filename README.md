@@ -3,6 +3,7 @@
 - Quantitative Trading
 - Backend Development
 - High Performance Computing
+- Computational Medicine 
 
 ## Stats
 
