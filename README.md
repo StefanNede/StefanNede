@@ -1,9 +1,9 @@
 #  Hi, I’m Stefan 👋
 ## 👀 I’m interested in ...
-- Quantitative Trading
 - Backend Development
 - High Performance Computing
-- Computational Medicine 
+- Computational Medicine
+- Quantum Computing
 
 ## Stats
 
