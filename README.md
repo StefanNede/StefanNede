@@ -1,8 +1,8 @@
 #  Hi, I’m Stefan 👋
 ## 👀 I’m interested in ...
-- Backend Development
 - High Performance Computing
 - Computational Medicine
+- Neuromorphic Computing
 - Quantum Computing
 
 ## Stats
