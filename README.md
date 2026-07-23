@@ -3,4 +3,3 @@
 - High Performance Computing (quantitative development)
 - Neuromorphic Computing
 - Quantum Computing
-- Computational Medicine
